@@ -1,4 +1,6 @@
-# Parcel jQuery image slider
+# Custom unsplash slider
+Custom unsplash image gallery slider created using jQuery, jQuery transit and buit with parcel. 
+
 ### Demo:
 [-- View Demo --](https://lasse.media/experiments/jquery-slider/)
 
